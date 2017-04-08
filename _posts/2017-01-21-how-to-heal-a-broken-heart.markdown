@@ -8,7 +8,7 @@ categories: Life
 tags: Love, Heartbreak, Romance
 image:
   feature: howtohealabrokenheart.jpg
-  topPosition: 0px
+  topPosition: -100px
 bgContrast: light
 bgGradientOpacity: lighter
 syntaxHighlighter: no
