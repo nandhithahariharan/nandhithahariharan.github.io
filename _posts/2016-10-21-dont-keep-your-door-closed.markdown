@@ -8,7 +8,7 @@ categories: Life, Peace
 tags:  Life, Peace
 image:
   feature: dontkeepyourdoorclosed.jpg
-  topPosition: -50px
+  topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

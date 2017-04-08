@@ -9,8 +9,8 @@ tags: Love, Heartbreak, Romance
 image:
   feature: howtohealabrokenheart.jpg
   topPosition: -100px
-bgContrast: light
-bgGradientOpacity: lighter
+bgContrast: dark
+bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 # HOW TO HEAL A BROKEN HEART?
