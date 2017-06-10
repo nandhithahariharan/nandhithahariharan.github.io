@@ -3,7 +3,7 @@ layout: post
 title:  "A letter to my 20 year old self"
 date:   2017-06-10 05:00:00
 last_modified_at:  2017-06-10 05:00:00
-excerpt: "Don't try to save yourself. You don't have to be okay..." 
+excerpt: "To the girl with big hopes and bigger dreams armed with a degree..." 
 categories: Life
 tags: Love, Heartbreak, Romance
 image:
@@ -57,5 +57,5 @@ With lots of love,
 
 A 23 Year Old Who Still Doesn't Know What The Hell Is Happening
 
-[1]: http://nandhithahariharan.com/wp-content/uploads/2017/06/quarter-life-crisis-Hero.jpg
+[1]: https://nandhithahariharan.github.io/assets/images/posts/lettertomy20/lettertomy20.png
 
