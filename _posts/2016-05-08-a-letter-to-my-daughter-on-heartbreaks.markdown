@@ -7,7 +7,7 @@ excerpt: "The first time you complained a lit..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: a-letter-to-my-daughter-on-heartbreaks.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

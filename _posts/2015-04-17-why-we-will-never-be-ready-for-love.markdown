@@ -7,7 +7,7 @@ excerpt: "**And this is why we will never be ..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: never-ready-for-love.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

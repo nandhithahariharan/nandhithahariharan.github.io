@@ -7,7 +7,7 @@ excerpt: "**Travel because cupcakes don’t t..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: this-is-why-one-should-travel.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

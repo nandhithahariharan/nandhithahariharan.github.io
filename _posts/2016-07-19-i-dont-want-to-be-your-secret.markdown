@@ -7,7 +7,7 @@ excerpt: "I don’t want to be a secret phone..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: i-dont-want-to-be-your-secret.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

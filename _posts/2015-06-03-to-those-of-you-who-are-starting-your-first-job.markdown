@@ -7,7 +7,7 @@ excerpt: "The first time you start a full-tim..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: first-job.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

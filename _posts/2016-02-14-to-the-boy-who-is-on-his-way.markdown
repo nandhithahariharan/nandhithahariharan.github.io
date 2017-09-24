@@ -7,7 +7,7 @@ excerpt: "To the boy who is on his way,..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: to-the-boy-who-is-on-his-way.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

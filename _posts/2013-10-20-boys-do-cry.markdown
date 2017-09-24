@@ -7,7 +7,7 @@ excerpt: "It was just another lazy Sunday nig..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: boys-do-cry.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

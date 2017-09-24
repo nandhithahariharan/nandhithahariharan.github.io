@@ -7,7 +7,7 @@ excerpt: "Till death do us part. Or, maybe no..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: what-vows-should-say.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

@@ -7,7 +7,7 @@ excerpt: "It could be in a quaint cafe, a bre..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: never-date-a-girl-who-writes.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

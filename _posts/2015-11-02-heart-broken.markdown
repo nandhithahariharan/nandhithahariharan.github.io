@@ -7,7 +7,7 @@ excerpt: "I remember a little framed quote th..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: heartbroken.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

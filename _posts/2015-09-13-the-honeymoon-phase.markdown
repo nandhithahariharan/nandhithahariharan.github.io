@@ -7,7 +7,7 @@ excerpt: "**He can’t possibly break my hear..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: honeymoon-phase.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

@@ -7,7 +7,7 @@ excerpt: "When it was time to go home I searc..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: the-day-after-you.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
