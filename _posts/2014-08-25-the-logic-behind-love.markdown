@@ -7,7 +7,7 @@ excerpt: "Let yourself feel like a thirteen y..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: logic-behind-love.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

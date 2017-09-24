@@ -7,7 +7,7 @@ excerpt: "Date a foodie. Date a guy who has p..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: date-a-foodie.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

@@ -7,7 +7,7 @@ excerpt: "Show me a girl who refuses to stay ..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: show-me-a-girl-who.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

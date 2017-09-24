@@ -7,7 +7,7 @@ excerpt: "“Because love is not instagram to..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: second-time-you-fall-in-love.jpg  
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

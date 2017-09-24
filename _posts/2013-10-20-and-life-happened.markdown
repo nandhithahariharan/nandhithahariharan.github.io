@@ -7,7 +7,7 @@ excerpt: "Just a year ago, for a few of us th..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: and-life-happened.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

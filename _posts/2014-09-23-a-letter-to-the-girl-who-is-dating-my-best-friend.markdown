@@ -7,7 +7,7 @@ excerpt: "I know you are intimidated by me. A..."
 categories: unclassified
 tags: unclassified
 image: 
-  feature: black.jpg
+  feature: letter-to-a-girl-dating-best-friend.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
