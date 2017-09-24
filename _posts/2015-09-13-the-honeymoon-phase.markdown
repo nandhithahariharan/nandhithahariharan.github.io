@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-# The Honeymoon Phase
 
 				
 

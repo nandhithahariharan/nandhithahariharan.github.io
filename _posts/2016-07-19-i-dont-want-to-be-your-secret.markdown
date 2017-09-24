@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-# I don&#8217;t want to be your&nbsp;secret
 
 				
 
@@ -23,7 +22,6 @@ syntaxHighlighter: no
 						
 
 
-		
 
 
 			

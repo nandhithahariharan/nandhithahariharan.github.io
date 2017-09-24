@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-# A Letter To My Daughter On&nbsp;Heartbreaks,
 
 				
 

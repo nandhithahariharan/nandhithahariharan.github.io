@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-# A Letter To My 20 Year Old Self,
 
 ![][1]
 

@@ -14,8 +14,6 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-# The Art Of Falling In Love With Yourself!
-
 It is important to love yourself.
 
 Not in an "I am okay when there is Valencia filter" kind of way. It is important to truly and madly be in love with yourself. **We have enough narcissism in the world but very less self-love and let's not for a minute confuse the two**.

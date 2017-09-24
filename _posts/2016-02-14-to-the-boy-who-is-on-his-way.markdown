@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-# TO THE BOY WHO IS ON HIS&nbsp;WAY
 
 				
 

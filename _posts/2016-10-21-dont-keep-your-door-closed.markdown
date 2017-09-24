@@ -14,7 +14,6 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-# DON'T KEEP YOUR DOOR CLOSED
 
 Don't keep your door closed" my mother yells and her voice feels like a faint memory from the past. Like an intruder in my own house, I close my mouth with my hands for I fear that the sound of me choking on my tears is enough to ruin their sleep…forever.
 

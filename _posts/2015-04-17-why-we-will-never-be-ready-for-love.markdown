@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-# WHY WE WILL NEVER BE READY FOR&nbsp;LOVE&#8230;..
 
 				
 

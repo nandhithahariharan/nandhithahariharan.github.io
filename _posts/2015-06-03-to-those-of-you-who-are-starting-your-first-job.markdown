@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-# To Those Of You Starting Your First&nbsp;Job,
 
 				
 

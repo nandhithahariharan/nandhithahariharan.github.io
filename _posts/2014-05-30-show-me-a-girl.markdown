@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-# Show Me a&nbsp;Girl&#8230;
 
 				
 

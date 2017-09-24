@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-# NEVER DATE A GIRL WHO&nbsp;WRITES
 
 				
 

@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-# And What The Vows Should Say..&nbsp;!
 
 				
 

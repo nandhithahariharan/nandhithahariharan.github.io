@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-# A Letter to the Girl Who Is Dating My Best&nbsp;Friend
 
 				
 

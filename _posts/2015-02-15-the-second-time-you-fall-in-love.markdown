@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-# THE SECOND TIME YOU FALL IN&nbsp;LOVE.
 
 				
 

@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-# HOW TO HEAL A BROKEN HEART?
 
 Don't try to save yourself. You don't have to be okay. In fact if someone asks you "How are you?" Make them buy you a cup of coffee or even better, a red velvet cupcake with extra cream cheese and tell the poor stranger everything they don't need to know about your life.
 

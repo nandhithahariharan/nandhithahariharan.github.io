@@ -14,8 +14,6 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-# To Every Girl Who Is Afraid To Be Alone,
-
 ![download][1]
 
 **Learn. There are a hundred different ways I could have started this but I fear you may not have the patience to read all of it. So I tell you what I want to tell you in the first line. **

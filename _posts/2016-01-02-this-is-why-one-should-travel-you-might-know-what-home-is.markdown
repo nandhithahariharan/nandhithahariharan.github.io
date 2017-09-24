@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-# This Is Why One Should Travel: You Might Know, What Home&nbsp;Is
 
 				
 
