@@ -7,7 +7,7 @@ excerpt: "We all hear stories of people getting dumped but somehow it never hits
 categories: Life
 tags: Love, Heartbreak, Romance
 image:
-  feature: dumped.jpg
+  feature: dumped.jpeg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
