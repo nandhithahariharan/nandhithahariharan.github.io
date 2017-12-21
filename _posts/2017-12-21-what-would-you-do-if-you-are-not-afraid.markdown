@@ -14,8 +14,6 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-[Source](https://nandhithahariharan1.wordpress.com/2017/12/21/what-would-you-do-if-you-are-not-afraid​/ "Permalink to What Would You Do If You Are Not Afraid​? – Kaleidoscope of Life!")
-
 # What Would You Do If You Are Not Afraid​? – Kaleidoscope of Life!
 
 What Would You Do If You Are Not Afraid?
